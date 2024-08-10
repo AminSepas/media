@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "b84b",
+      "name": "Harriet Hansen"
+    },
+    {
+      "id": "e062",
+      "name": "Melba Trantow PhD"
+    }
+  ],
+  "albums": [
+    {
+      "id": "7cce",
+      "userId": "b84b",
+      "title": "Electronic Soft Cheese"
+    },
+    {
+      "id": "7276",
+      "userId": "e062",
+      "title": "Ergonomic Rubber Bike"
+    }
+  ],
+  "photos": [
+    {
+      "id": "b3fe",
+      "albumId": "7cce",
+      "url": "https://loremflickr.com/150/150/abstract?lock=5444509479469056"
+    }
+  ]
+}
